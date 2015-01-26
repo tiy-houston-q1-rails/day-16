@@ -38,3 +38,12 @@ Create HTML specified in the following image. No need for bootstrap
 &#9822; = ♞
 &#9823; = ♟
 ```
+
+
+Homework
+--------------
+
+1. Create your surf-and-paddle in middleman from your codepen
+1. Get the asset pipeline working
+1. complete the page if you stopped short
+
