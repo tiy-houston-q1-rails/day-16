@@ -6,7 +6,7 @@ Quiz 1: Column Review
 
 Create HTML specified in the following image. Use bootstrap and codepen:
 
-![assets-columns](assets/columns.png)
+![assets-columns](assets/quiz1.png)
 
 
 1. Quiz 1: Columns
