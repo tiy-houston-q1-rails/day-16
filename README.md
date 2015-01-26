@@ -13,7 +13,6 @@ Create HTML specified in the following image. Use bootstrap and codepen:
 1. Lab Review
 1. Middleman Commands
 1. Middleman Asset Pipeline
-1. Middleman Pages
 1. Quiz 2: Chess
 
 
